@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Makinde Olaitan  
+### A MERN Software Engineer
 ##### 👀 I’m interested in fFrontEnd(React,vanilla javascript)  
 🌱 I’m currently learning Backend web development  
 💞️ I’m looking to collaborate on React || javascript project in general  
