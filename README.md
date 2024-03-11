@@ -2,7 +2,11 @@
 ### A MERN (MongoDb,Express, React,Nodejs)  Software Engineer
 ##### 👀 I’m interested in MERN Projects  
 💞️ I’m looking to collaborate on Frontend(Reactjs/Nextjs) || Backend(Nodejs) 
+
+
 📫 makindeolaitan01@gmail.com || +234-81-6804-3011 
+
+
 👀[Click here to see my Portfolio](portfolio-2024-drab.vercel.app) 
 
 
