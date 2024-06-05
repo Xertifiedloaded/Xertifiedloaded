@@ -1,6 +1,6 @@
 # Hi there, I'm Makinde Olaitan! 👋
 
-- 👀 I’m interested in Backend Engineering or Frontend Engineering (Reactjs).
+- 👀 I’m interested in Backend Engineering or Frontend Engineering (Reactjs || Nextjs).
 - 🌱 I’m currently learning TypeScript and SQL.
 - 💞️ I’m looking to collaborate on projects of value.
 - 📫 You can reach me at [makindeolaitan01@gmail.com](mailto:makindeolaitan01@gmail.com)
