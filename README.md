@@ -1,10 +1,31 @@
 <div align="center">
 
-# 👋 Hey, I'm Makinde Olaitan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Makinde%20Olaitan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-### Fullstack Software Engineer | Building Scalable Web Solutions
+<img src="https://github.com/xertifiedloaded.png" width="150" style="border-radius: 50%; border: 4px solid #6366f1; box-shadow: 0 0 20px rgba(99, 102, 241, 0.5);"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=React+%26+Next.js+Developer;Node.js+Backend+Engineer;TypeScript+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
+### 👋 Hey there! I'm **Makinde Olaitan**
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Fullstack+Software+Engineer;Crafting+Scalable+Web+Solutions" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=1000&color=9CA3AF&center=true&vCenter=true&width=550&lines=React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+MongoDB;Building+the+future%2C+one+commit+at+a+time" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/makinde-olaitan-43177a290">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.foliospace.org.ng/portfolio/makindeolaitan">
+    <img src="https://img.shields.io/badge/-Portfolio-6366F1?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:makindeolaitan01@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=xertifiedloaded&style=flat-square&color=6366f1" alt="Profile Views"/>
+</p>
 
 </div>
 
@@ -71,33 +92,53 @@ const makinde = {
 
 ---
 
-## 📈 Contribution Activity
+## 🔥 Current Focus & Learning
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xertifiedloaded&custom_title=Contribution%20Timeline&bg_color=0d1117&color=6366f1&line=6366f1&point=c9d1d9&area=true&hide_border=true)](https://github.com/xertifiedloaded)
+| 🎯 Currently Working On | 🌱 Learning & Exploring | 🛠️ Tools I Use Daily |
+|:---:|:---:|:---:|
+| Enterprise Web Apps | Advanced TypeScript Patterns | VS Code + GitHub Copilot |
+| Scalable API Architecture | Performance Optimization | Vercel + Firebase |
+| Real-time Features | System Design | MongoDB + Postman |
 
 </div>
 
 ---
 
-## 🚀 Featured Repositories
+## 📝 Latest Blog Posts & Articles
 
 <div align="center">
 
-<a href="https://github.com/xertifiedloaded?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xertifiedloaded&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/xertifiedloaded?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xertifiedloaded&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
-</a>
+<!-- BLOG-POST-LIST:START -->
+- 🚀 Building Scalable React Applications with Next.js
+- ⚡ Optimizing API Performance with Node.js Best Practices
+- 🎨 Modern UI/UX with Tailwind CSS and TypeScript
+- 🔐 Implementing Secure Authentication in Fullstack Apps
+- 💾 Database Design Patterns for MongoDB
+<!-- BLOG-POST-LIST:END -->
 
 </div>
 
+---
+
+## 🎓 Certifications & Achievements
+
 <div align="center">
-  
-> Replace `YOUR_REPO_1` and `YOUR_REPO_2` with your actual repository names
+
+```yaml
+Certifications:
+  - Fullstack Web Development
+  - JavaScript & TypeScript Advanced
+  - React & Next.js Specialist
+  - MongoDB Database Professional
+
+Achievements:
+  - 100+ Contributions in 2025
+  - 10+ Production Projects Deployed
+  - Open Source Contributor
+  - Active Community Member
+```
 
 </div>
 
@@ -130,14 +171,9 @@ const makinde = {
 
 <div align="center">
 
-### 💭 Developer Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 **⭐️ Open to exciting opportunities and collaborations**
 
-*"Clean code always looks like it was written by someone who cares."*
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
