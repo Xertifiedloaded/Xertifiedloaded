@@ -1,95 +1,143 @@
-# Hello, I'm a Fullstack Developer 👋
-
-## 💼 Professional Software Engineer | Fullstack Development Specialist
-
-I am a dedicated fullstack software engineer with expertise in modern web technologies and scalable application development. My focus lies in creating robust, efficient solutions that deliver exceptional user experiences while maintaining clean, maintainable code architecture.
-
----
-
-## 🔧 Technical Expertise
-
-### Frontend Technologies
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend Technologies
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### Database Systems
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-
-## 🎯 Current Development Focus
-
-- **Frontend Architecture:** Developing scalable React applications with Next.js and TypeScript
-- **Backend Systems:** Building robust APIs and microservices with Node.js and Express
-- **Database Design:** Implementing efficient data structures with MongoDB and Firebase
-- **Performance Optimization:** Enhancing application speed and user experience
-- **Code Quality:** Maintaining high standards through testing and best practices
-
----
-
-## 🚀 Featured Development Projects
-
-### **Enterprise E-commerce Solution**
-**Technology Stack:** Next.js • TypeScript • MongoDB • Stripe Integration  
-**Key Features:** Advanced authentication system, payment processing, administrative dashboard, real-time inventory management
-
-### **Real-Time Communication Platform**
-**Technology Stack:** React • Node.js • Socket.io • Firebase  
-**Key Features:** Instant messaging, file sharing, user presence indicators, message encryption
-
-### **Project Management Dashboard**
-**Technology Stack:** React • Express.js • MongoDB • RESTful API  
-**Key Features:** Task tracking, team collaboration, progress analytics, responsive design
-
-
-
----
-
-## 📫 Professional Contact
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/makinde-olaitan-43177a290)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.foliospace.org.ng/portfolio/makindeolaitan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:makindeolaitan01@gmail.com)
+# 👋 Hey, I'm Makinde Olaitan
+
+### Fullstack Software Engineer | Building Scalable Web Solutions
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=React+%26+Next.js+Developer;Node.js+Backend+Engineer;TypeScript+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 💡 Professional Approach
+## 🎯 About Me
 
-**Problem Solving:** I approach each development challenge with analytical thinking and systematic problem-solving methodologies.
+Passionate fullstack developer specializing in modern web technologies. I craft high-performance, scalable applications with clean architecture and exceptional user experiences.
 
-**Continuous Learning:** Committed to staying current with emerging technologies and industry best practices.
+```typescript
+const makinde = {
+  location: "Lagos, Nigeria",
+  role: "Fullstack Software Engineer",
+  focus: ["Web Development", "API Design", "Performance Optimization"],
+  currently: "Building enterprise solutions with Next.js & TypeScript",
+  available: "Open to collaboration & opportunities"
+};
+```
 
-**Code Quality:** I prioritize writing clean, maintainable, and well-documented code that follows established design patterns.
+---
 
-**Collaboration:** Experience working in agile development environments with cross-functional teams.
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xertifiedloaded&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&ring_color=6366f1"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xertifiedloaded&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xertifiedloaded&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&dates=c9d1d9)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xertifiedloaded&custom_title=Contribution%20Timeline&bg_color=0d1117&color=6366f1&line=6366f1&point=c9d1d9&area=true&hide_border=true)](https://github.com/xertifiedloaded)
+
+</div>
+
+---
+
+## 🚀 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/xertifiedloaded?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xertifiedloaded&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/xertifiedloaded?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xertifiedloaded&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
+</a>
+
+</div>
+
+<div align="center">
+  
+> Replace `YOUR_REPO_1` and `YOUR_REPO_2` with your actual repository names
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/makinde-olaitan-43177a290)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.foliospace.org.ng/portfolio/makindeolaitan)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:makindeolaitan01@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xertifiedloaded)
+
+</div>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=xertifiedloaded&color=0e75b6&style=flat-square)
+### 📊 Profile Stats
 
-**Open to collaboration on innovative projects and professional opportunities**
+![](https://komarev.com/ghpvc/?username=xertifiedloaded&style=for-the-badge&color=6366f1&label=Profile+Views)
+![](https://img.shields.io/github/followers/xertifiedloaded?style=for-the-badge&color=6366f1&labelColor=0d1117&label=Followers)
+![](https://img.shields.io/github/stars/xertifiedloaded?style=for-the-badge&color=f59e0b&labelColor=0d1117&label=Stars)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+**⭐️ Open to exciting opportunities and collaborations**
+
+*"Clean code always looks like it was written by someone who cares."*
 
 </div>
