@@ -33,7 +33,6 @@ I am a dedicated fullstack software engineer with expertise in modern web techno
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-https://camo.githubusercontent.com/20172a0b8c2794262cc8084eb0bd2d4a0e9426676951741cd9735204666eeea0/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d746f6b796f6e69676874
 
 ## 🎯 Current Development Focus
 
