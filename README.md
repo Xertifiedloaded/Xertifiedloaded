@@ -58,25 +58,7 @@ I am a dedicated fullstack software engineer with expertise in modern web techno
 **Technology Stack:** React • Express.js • MongoDB • RESTful API  
 **Key Features:** Task tracking, team collaboration, progress analytics, responsive design
 
----
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=xertifiedloaded&theme=dark&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=xertifiedloaded&theme=darkhub&no-frame=true&column=6&margin-w=15)
-
-</div>
 
 ---
 
